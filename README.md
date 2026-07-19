@@ -34,3 +34,10 @@ This repository contains my solutions to the mentor-assigned Codeforces group co
 - Bitmask DP
 - Digit DP
 - Interval DP
+## week 5 - Trees
+- Learned tree data structures and traversal techniques
+- Practiced solving tree-based problems
+### Week 6 – Graphs, DFS & BFS
+- Learned graph representation and traversal.
+- Practiced DFS and BFS.
+- Solved problems involving graph traversal and connected components.
